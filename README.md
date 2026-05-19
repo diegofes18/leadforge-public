@@ -27,7 +27,7 @@
 
 ```bash
 # 1. Clona el repo
-git clone https://github.com/TU-USUARIO/leadforge-public leadforge && cd leadforge
+git clone https://github.com/diegofes18/leadforge-public leadforge && cd leadforge
 
 # 2. Setup automático: venv + dependencias + .env
 bash setup.sh
@@ -69,7 +69,7 @@ Google Places API New: **~$0.12 / búsqueda de 60 leads**. Google da **$200/mes 
 | **Updates v1.x** | ❌ | ✅ |
 | Licencia | MIT | Comercial |
 
-👉 **[Conseguir LeadForge Pro — 29€](https://bermejowebs.com)** *(precio early-bird, limitado a las primeras 30 ventas)*.
+👉 **[Conseguir LeadForge Pro — 29€](https://bermejowebs.com/leadforge)** *(precio early-bird, limitado a las primeras 30 ventas)*.
 
 ---
 
